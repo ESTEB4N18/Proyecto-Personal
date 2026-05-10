@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "nombre": "San Jose",
+    "provincia": "San Jose",
+    "categoria": "Ciudad",
+    "descripcion": "San Jose es la capital de Costa Rica y concentra una parte importante de la vida cultural, historica y gastronomica del pais. Sus museos, teatros, mercados y barrios tradicionales permiten comprender la identidad urbana costarricense y funcionan como punto de partida para explorar el Valle Central.",
+    "datosCuriosos": [
+      "El Teatro Nacional fue inaugurado en 1897 y es uno de los edificios patrimoniales mas reconocidos del pais.",
+      "El Mercado Central reune sodas, artesanias y comercios tradicionales desde finales del siglo XIX.",
+      "La ciudad se ubica en el Valle Central, una zona rodeada por montanas y volcanes."
+    ],
+    "imagen": "/src/assets/images/san-jose.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Liberia",
+    "provincia": "Guanacaste",
+    "categoria": "Ciudad",
+    "descripcion": "Liberia, conocida como la Ciudad Blanca por sus antiguas calles de tierra clara y arquitectura colonial, es una puerta de entrada a las playas, parques nacionales y zonas volcanicas de Guanacaste. Su ubicacion la convierte en un centro estrategico para el turismo del Pacifico Norte.",
+    "datosCuriosos": [
+      "Su apodo se relaciona con el color claro de materiales usados historicamente en calles y edificaciones.",
+      "El Aeropuerto Internacional Daniel Oduber facilita el ingreso de visitantes al Pacifico Norte.",
+      "Desde Liberia se puede acceder con facilidad al Parque Nacional Rincon de la Vieja."
+    ],
+    "imagen": "/src/assets/images/liberia.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Monteverde",
+    "provincia": "Puntarenas",
+    "categoria": "Montana",
+    "descripcion": "Monteverde es uno de los destinos de bosque nuboso mas famosos de Costa Rica. Sus senderos, puentes colgantes y reservas biologicas ofrecen contacto directo con una biodiversidad excepcional, clima fresco y paisajes verdes que cambian constantemente por la neblina.",
+    "datosCuriosos": [
+      "El bosque nuboso recibe humedad constante de las nubes que pasan entre la vegetacion.",
+      "Es un sitio reconocido para observar aves como el quetzal resplandeciente.",
+      "La comunidad local ha impulsado modelos de conservacion y turismo sostenible."
+    ],
+    "imagen": "/src/assets/images/monteverde.jpg",
+    "audio": "/src/assets/audio/monteverde.mp3"
+  },
+  {
+    "id": 4,
+    "nombre": "Manuel Antonio",
+    "provincia": "Puntarenas",
+    "categoria": "Parque Nacional",
+    "descripcion": "Manuel Antonio combina playas de arena clara, bosque tropical y senderos cortos con gran facilidad para observar fauna. Es uno de los parques nacionales mas visitados del pais por su mezcla de belleza escenica, accesibilidad y diversidad de especies.",
+    "datosCuriosos": [
+      "Aunque es uno de los parques nacionales mas pequenos de Costa Rica, posee gran riqueza biologica.",
+      "Es comun observar monos, perezosos, iguanas y aves durante los recorridos.",
+      "Sus playas se encuentran dentro de un area protegida frente al Oceano Pacifico."
+    ],
+    "imagen": "/src/assets/images/manuel-antonio.jpg",
+    "audio": "/src/assets/audio/manuel-antonio.mp3"
+  },
+  {
+    "id": 5,
+    "nombre": "Tortuguero",
+    "provincia": "Limon",
+    "categoria": "Parque Nacional",
+    "descripcion": "Tortuguero es un destino caribeno de canales, lagunas, bosque tropical y playas de anidacion de tortugas marinas. La experiencia se vive principalmente en bote, lo que permite recorrer ecosistemas acuaticos y observar fauna en un ambiente muy distinto al de otros destinos del pais.",
+    "datosCuriosos": [
+      "Es uno de los sitios mas importantes del Caribe para la anidacion de la tortuga verde.",
+      "No se accede por carretera directa al pueblo; el ingreso suele realizarse por bote o avioneta.",
+      "Sus canales naturales y artificiales le han dado el apodo de la Amazonia costarricense."
+    ],
+    "imagen": "/src/assets/images/tortuguero.jpg",
+    "audio": "/src/assets/audio/tortuguero.mp3"
+  },
+  {
+    "id": 6,
+    "nombre": "La Fortuna",
+    "provincia": "Alajuela",
+    "categoria": "Volcan",
+    "descripcion": "La Fortuna es reconocida por su cercania al Volcan Arenal, aguas termales, cataratas y actividades de aventura. Su paisaje combina bosque, rios, miradores y servicios turisticos que la convierten en uno de los destinos mas completos de la Zona Norte.",
+    "datosCuriosos": [
+      "El Volcan Arenal fue uno de los volcanes mas activos de Costa Rica durante varias decadas.",
+      "La Catarata La Fortuna cae desde una altura aproximada de 70 metros.",
+      "Las aguas termales de la zona se asocian con la actividad geotermica del Arenal."
+    ],
+    "imagen": "/src/assets/images/la-fortuna.jpg",
+    "audio": "/src/assets/audio/la-fortuna.mp3"
+  },
+  {
+    "id": 7,
+    "nombre": "Puerto Viejo",
+    "provincia": "Limon",
+    "categoria": "Playa",
+    "descripcion": "Puerto Viejo de Talamanca destaca por su ambiente caribeno, cultura afrodescendiente, gastronomia local, playas y cercania a refugios de vida silvestre. Es un destino ideal para recorrer en bicicleta, probar sabores tradicionales y disfrutar de un ritmo relajado junto al mar.",
+    "datosCuriosos": [
+      "La zona combina influencias culturales afrocaribenas, indigenas y costarricenses.",
+      "Playa Cocles es popular para surfistas por sus olas constantes.",
+      "Se encuentra cerca del Refugio Nacional de Vida Silvestre Gandoca-Manzanillo."
+    ],
+    "imagen": "/src/assets/images/puerto-viejo.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Tamarindo",
+    "provincia": "Guanacaste",
+    "categoria": "Playa",
+    "descripcion": "Tamarindo es una playa guanacasteca conocida por el surf, los atardeceres y una amplia oferta de servicios turisticos. Su bahia, vida nocturna moderada y cercania a manglares y playas vecinas la hacen atractiva para visitantes nacionales e internacionales.",
+    "datosCuriosos": [
+      "Es uno de los puntos mas conocidos del pais para aprender surf.",
+      "Forma parte de un entorno cercano al Parque Nacional Marino Las Baulas.",
+      "Sus atardeceres sobre el Pacifico son uno de sus principales atractivos fotograficos."
+    ],
+    "imagen": "/src/assets/images/tamarindo.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Cartago",
+    "provincia": "Cartago",
+    "categoria": "Ciudad",
+    "descripcion": "Cartago fue la antigua capital de Costa Rica y conserva una fuerte importancia historica y religiosa. Sus iglesias, ruinas, clima fresco y cercania al Volcan Irazu la convierten en un destino relevante para comprender el desarrollo cultural del Valle Central.",
+    "datosCuriosos": [
+      "La Basilica de Nuestra Senora de los Angeles recibe cada ano una de las peregrinaciones mas grandes del pais.",
+      "Cartago fue capital de Costa Rica hasta el siglo XIX.",
+      "Desde la provincia se accede al Parque Nacional Volcan Irazu."
+    ],
+    "imagen": "/src/assets/images/cartago.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Corcovado",
+    "provincia": "Puntarenas",
+    "categoria": "Parque Nacional",
+    "descripcion": "El Parque Nacional Corcovado, ubicado en la Peninsula de Osa, protege uno de los bosques tropicales mas biodiversos de Centroamerica. Es un destino de naturaleza intensa, recomendado para observacion de fauna, caminatas guiadas y experiencias de conservacion en ambientes poco intervenidos.",
+    "datosCuriosos": [
+      "La Peninsula de Osa alberga una concentracion extraordinaria de biodiversidad.",
+      "En sus senderos se pueden observar especies como dantas, lapas rojas y monos.",
+      "Por su fragilidad ecologica, muchas visitas se realizan con guia autorizado."
+    ],
+    "imagen": "/src/assets/images/corcovado.jpg"
+  }
+]
