@@ -72,4 +72,4 @@ vite.config.js
 
 ## Recursos multimedia
 
-El JSON usa rutas como `/src/assets/images/monteverde.jpg` y `/src/assets/audio/monteverde.mp3`. Para completar la entrega final, se pueden colocar los archivos multimedia reales en esas carpetas conservando los nombres indicados.
+El JSON usa rutas como `/src/assets/images/monteverde.jpg` y `/src/assets/audio/monteverde.mp3`. Para completar la entrega final, se pueden colocar los archivos multimedia reales en esas carpetas conservando los nombres indicados. 
