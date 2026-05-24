@@ -8,6 +8,11 @@ import DestinationCard from './components/DestinationCard.vue'
 import DestinationModal from './components/DestinationModal.vue'
 import ThemeToggle from './components/ThemeToggle.vue'
 
+const multimediaAssets = {
+  ...import.meta.glob('./assets/images/*', { eager: true, query: '?url', import: 'default' }),
+  ...import.meta.glob('./assets/audio/*', { eager: true, query: '?url', import: 'default' }),
+}
+
 const destinos = ref([])
 const loading = ref(true)
 const errorMessage = ref('')
@@ -17,6 +22,14 @@ const selectedDestination = ref(null)
 const isDarkMode = ref(false)
 
 const normalizeText = (value) => value.toString().toLowerCase().trim()
+
+const resolveMultimediaUrl = (path) => {
+  if (!path?.startsWith('/src/')) {
+    return path
+  }
+
+  return multimediaAssets[path.replace('/src/', './')] ?? path
+}
 
 const categories = computed(() => {
   const uniqueCategories = new Set(destinos.value.map((destino) => destino.categoria))
@@ -69,7 +82,13 @@ const loadDestinations = async () => {
       throw new Error('No se pudo cargar el archivo de destinos.')
     }
 
-    destinos.value = await response.json()
+    const loadedDestinations = await response.json()
+
+    destinos.value = loadedDestinations.map((destino) => ({
+      ...destino,
+      imagen: resolveMultimediaUrl(destino.imagen),
+      audio: resolveMultimediaUrl(destino.audio),
+    }))
   } catch (error) {
     errorMessage.value = error.message
   } finally {
