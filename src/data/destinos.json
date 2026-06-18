@@ -10,7 +10,8 @@
       "El Mercado Central reune sodas, artesanias y comercios tradicionales desde finales del siglo XIX.",
       "La ciudad se ubica en el Valle Central, una zona rodeada por montanas y volcanes."
     ],
-    "imagen": "/src/assets/images/san-jose.jpg"
+    "imagen": "/src/assets/images/san-jose.jpg",
+    "audio": "/src/assets/audio/san-jose.mp3"
   },
   {
     "id": 2,
@@ -23,7 +24,8 @@
       "El Aeropuerto Internacional Daniel Oduber facilita el ingreso de visitantes al Pacifico Norte.",
       "Desde Liberia se puede acceder con facilidad al Parque Nacional Rincon de la Vieja."
     ],
-    "imagen": "/src/assets/images/liberia.jpg"
+    "imagen": "/src/assets/images/liberia.jpg",
+    "audio": "/src/assets/audio/liberia.mp3"
   },
   {
     "id": 3,
@@ -36,8 +38,7 @@
       "Es un sitio reconocido para observar aves como el quetzal resplandeciente.",
       "La comunidad local ha impulsado modelos de conservacion y turismo sostenible."
     ],
-    "imagen": "/src/assets/images/monteverde.jpg",
-    "audio": "/src/assets/audio/monteverde.mp3"
+    "imagen": "/src/assets/images/monteverde.jpg"
   },
   {
     "id": 4,
@@ -64,8 +65,7 @@
       "No se accede por carretera directa al pueblo; el ingreso suele realizarse por bote o avioneta.",
       "Sus canales naturales y artificiales le han dado el apodo de la Amazonia costarricense."
     ],
-    "imagen": "/src/assets/images/tortuguero.jpg",
-    "audio": "/src/assets/audio/tortuguero.mp3"
+    "imagen": "/src/assets/images/tortuguero.jpg"
   },
   {
     "id": 6,
@@ -92,7 +92,8 @@
       "Playa Cocles es popular para surfistas por sus olas constantes.",
       "Se encuentra cerca del Refugio Nacional de Vida Silvestre Gandoca-Manzanillo."
     ],
-    "imagen": "/src/assets/images/puerto-viejo.jpg"
+    "imagen": "/src/assets/images/puerto-viejo.jpg",
+    "audio": "/src/assets/audio/puerto-viejo.mp3"
   },
   {
     "id": 8,
@@ -105,7 +106,8 @@
       "Forma parte de un entorno cercano al Parque Nacional Marino Las Baulas.",
       "Sus atardeceres sobre el Pacifico son uno de sus principales atractivos fotograficos."
     ],
-    "imagen": "/src/assets/images/tamarindo.jpg"
+    "imagen": "/src/assets/images/tamarindo.jpg",
+    "audio": "/src/assets/audio/tamarindo.mp3"
   },
   {
     "id": 9,
@@ -118,7 +120,8 @@
       "Cartago fue capital de Costa Rica hasta el siglo XIX.",
       "Desde la provincia se accede al Parque Nacional Volcan Irazu."
     ],
-    "imagen": "/src/assets/images/cartago.jpg"
+    "imagen": "/src/assets/images/cartago.jpg",
+    "audio": "/src/assets/audio/cartago.mp3"
   },
   {
     "id": 10,
