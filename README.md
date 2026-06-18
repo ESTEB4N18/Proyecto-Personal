@@ -33,14 +33,20 @@ Despues de ejecutar el servidor de desarrollo, Vite mostrara la URL local para a
 - Diseno responsive para escritorio, tablet y movil.
 - Componentes reutilizables y codigo organizado.
 
-## Capturas sugeridas
+## Capturas de pantalla
 
-- Vista principal en escritorio con tarjetas y hero section.
-- Busqueda activa mostrando resultados filtrados.
-- Filtro por categoria seleccionado.
-- Modal abierto con datos curiosos y reproductor de audio.
-- Vista movil.
-- Modo oscuro.
+### Vista principal en escritorio (Modo Claro)
+![Vista principal en escritorio en modo claro](./screenshots/vista-principal-modo-claro.png)
+
+### Vista principal en escritorio (Modo Oscuro)
+![Vista principal en escritorio en modo oscuro](./screenshots/vista-principal-modo-oscuro.png)
+
+### Detalle del destino (Modal con reproductor de audio)
+![Modal de detalle con audio](./screenshots/modal-detalle-audio.png)
+
+### Búsqueda activa (Vista móvil)
+![Búsqueda activa y responsive en móvil](./screenshots/vista-movil-busqueda.png)
+
 
 ## Estructura del proyecto
 
