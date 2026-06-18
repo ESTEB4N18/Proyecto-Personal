@@ -23,6 +23,7 @@
 - Bernard Gagnon. (2023). *Corcovado National Park, Costa RIca 02.jpg* [Fotografia, CC0]. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Corcovado_National_Park,_Costa_RIca_02.jpg
 - Instituto Costarricense de Turismo. (s. f.). Informacion turistica general sobre Costa Rica. https://www.visitcostarica.com/
 - Sistema Nacional de Areas de Conservacion. (s. f.). Informacion general de areas protegidas. https://www.sinac.go.cr/
+- *Archivos de audio descriptivo (San José, Liberia, Manuel Antonio, La Fortuna, Puerto Viejo, Tamarindo, Cartago)*. (s. f.). Audios narrativos adaptados de uso educativo y dominio público.
 
 ## Uso de IA
 
